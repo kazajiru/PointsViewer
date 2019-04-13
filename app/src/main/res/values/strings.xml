@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">PointsViewer</string>
+    <string name="app_name">Points Viewer</string>
+    <string name="info_about_app">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis maximus magna. Pellentesque vel mollis diam. Mauris viverra ante in purus pharetra, et auctor enim eleifend. </string>
+    <string name="edit_count_hint">Count of points</string>
+    <string name="submit">Submit</string>
+    <string name="error_empty_field">Empty field. Please fill</string>
+    <string name="error_wrong_input_value">We are accepting only integer. Please write correct value</string>
+
+
 </resources>
